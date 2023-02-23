@@ -4,4 +4,4 @@ venv
 
 # files
 db.sqlite3
-.venv
+.env
