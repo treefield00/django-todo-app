@@ -1,0 +1,7 @@
+# dirs
+__pycache__
+venv
+
+# files
+db.sqlite3
+.venv
