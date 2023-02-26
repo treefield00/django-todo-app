@@ -3,7 +3,7 @@
 {% block content %}
 <div class="card mt-5" >
     <div class="card-body">
-        <h2>{{ task.title }}</h2>
+        <h2>{{ task.title }},{{ task.auther }}</h2>
         <p>{{ task.description }}</p>
         <p class="text-muted">{{ task.deadline }}</p>
         {% if user.is_authenticated %}
