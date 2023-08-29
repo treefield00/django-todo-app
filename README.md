@@ -9,6 +9,8 @@ Django 4.0.2
   
 [http://treefield00.pythonanywhere.com](http://treefield00.pythonanywhere.com)
 
+＞＞利用するには最初に「会員登録」をする必要があります。
+
 現在、ユーザ登録はできるけど、どのユーザで入っても全てのToDoが見れちゃいます。  
 ↓  
 ログイン者のToDoのみ表示するように修正しました。
